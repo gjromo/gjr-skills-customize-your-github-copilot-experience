@@ -142,6 +142,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-modules",
+      "title": "Python Functions and Modules",
+      "description": "Writing reusable Python functions and organizing code into modules for cleaner programs.",
+      "path": "assignments/python-functions-modules",
+      "dueDate": "2026-10-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
